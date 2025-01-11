@@ -48,5 +48,6 @@ pjsekai-overlay-ipad は、pjsekai-overlayをipad用に改造したものです
   オリジナル版 https://github.com/sevenc-nanashi/pjsekai-overlay
   作成：名無し｡ （ https://sevenc7c.com ）
   ipad版：https://github.com/Nsan736/pjsekai-overlay-ipad
-  作成：Nsan  (https://youtube.com/channel/UCOyHw_H6jFwprHaPuvzDLDQ?si=pHFqqH5NuMxhuAh8)を入れてください
+  作成：Nsan 
+  を入れてください
 
