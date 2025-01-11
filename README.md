@@ -38,7 +38,7 @@ pjsekai-overlay-ipad は、pjsekai-overlayをipad用に改造したものです
 9. iphoneやipadに完成した動画を送ったら、写真アプリに保存して、動画を編集する画面に行ってください、
 10. 切り取りに移動して、右上から3番目のボタンを押します。そしたら、下の4:3を選択して保存します。
 =======
->>>>>>> parent of 018cbeb (PJsekai-overlay-ipad)
+
 
 ## 利用規約
 
