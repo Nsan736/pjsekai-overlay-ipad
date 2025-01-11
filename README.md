@@ -25,26 +25,28 @@ pjsekai-overlay-ipad は、pjsekai-overlayをipad用に改造したものです
 
 0. 1280x720, 60fps で aviutl のプロジェクトを作成する
 1. 注意　必ず、オブジェクトファイルから作成ではなくプロジェクトを作成してから、
-2.  オブジェクトファイルをインポートしてください
-3. 右の Releases から最新のバージョンの zip をダウンロードする
-4. zip を解凍する
-5. AviUtl を起動する
+   オブジェクトファイルをインポートしてください
+2. 右の Releases から最新のバージョンの zip をダウンロードする
+3. zip を解凍する
+4. AviUtl を起動する
    - pjsekai-overlay-ipad が起動する前に AviUtl を起動するとオブジェクトのインストールが行われます。
-6. `pjsekai-overlay-ipad.exe` を起動する
-7. 譜面 ID を入力する
+5. `pjsekai-overlay-ipad.exe` を起動する
+6. 譜面 ID を入力する
    - Potato Leaves の場合は `ptlv-` を、Chart Cyanvas の場合は `chcy-` を先頭につけたまま入力してください。
+<<<<<<< HEAD
 8. 動画を出力したら、形式をmp4などの形式からmovにします。
 9. iphoneやipadに完成した動画を送ったら、写真アプリに保存して、動画を編集する画面に行ってください、
 10. 切り取りに移動して、右上から3番目のボタンを押します。そしたら、下の4:3を選択して保存します。
+=======
+>>>>>>> parent of 018cbeb (PJsekai-overlay-ipad)
 
 ## 利用規約
 
 動画の概要欄などに、
 
-プロセカ風動画作成補助ツール：
-  オリジナル版 https://github.com/sevenc-nanashi/pjsekai-overlay
-  作成：名無し｡ （ https://sevenc7c.com ）
-  ipad版：https://github.com/Nsan736/pjsekai-overlay-ipad
-  作成：Nsan  (https://youtube.com/channel/UCOyHw_H6jFwprHaPuvzDLDQ?si=pHFqqH5NuMxhuAh8)
-  を入れてください
+プロセカ風動画作成補助ツール
+    \hoge1オリジナル版 https://github.com/sevenc-nanashi/pjsekai-overlay
+    \hoge2作成：名無し｡ （ https://sevenc7c.com ）
+    \hoge3ipad版：https://github.com/Nsan736/pjsekai-overlay-ipad
+    \hoge4作成：Nsan  (https://youtube.com/channel/UCOyHw_H6jFwprHaPuvzDLDQ?si=pHFqqH5NuMxhuAh8)を入れてください
 
