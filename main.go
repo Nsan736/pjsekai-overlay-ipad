@@ -61,9 +61,7 @@ func checkUpdate() {
 	if latestVersion == pjsekaioverlay.Version {
 		return
 	}
-	fmt.Printf("新しいバージョンがリリースされています：v%s -> v%s\n", pjsekaioverlay.Version, latestVersion)
-	fmt.Printf("ダウンロード：%s\n", release.GetHTMLURL())
-}
+	}
 
 func origMain(isOptionSpecified bool) {
 	Title()
