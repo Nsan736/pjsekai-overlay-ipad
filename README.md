@@ -40,7 +40,7 @@ pjsekai-overlay-ipad は、pjsekai-overlayをipad用に改造したものです
 =======
 
 
-## 利用規約
+## 利用するにあたって
 
 動画の概要欄などに、
 
@@ -51,4 +51,5 @@ pjsekai-overlay-ipad は、pjsekai-overlayをipad用に改造したものです
 - 名無し｡ (https://sevenc7c.com) オリジナル版
    https://github.com/sevenc-nanashi/pjsekai-overlay
 ```
+  を入れてください
 
